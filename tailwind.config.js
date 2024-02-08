@@ -7,9 +7,12 @@ module.exports = {
 				main: {
 					400: '#293656',
 				},
+				secondary: {
+					400: '#abac76',
+				},
 			},
       fontFamily:{
-        heading:['Allison', 'cursive'],
+        handWritting:['Allison', 'cursive'],
         text:['Jost', 'sans-serif']
         
       }
