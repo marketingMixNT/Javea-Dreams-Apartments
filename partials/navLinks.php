@@ -1,7 +1,4 @@
-<nav class="hidden bg-white p-4 lg:flex justify-between items-center relative">
-    <img src="../assets/logo/logo--dark.png" alt="" class="w-32">
-    <ul class="flex  gap-12">
-        <li class="dropdown inline-flex relative group">
+<li class="dropdown inline-flex relative group">
             <button class=" font-semibold text-sm  rounded inline-flex items-center uppercase group">
                 <span class="mr-1">About Javea</span>
                 <svg class="fill-current h-4 w-4" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 20 20">
@@ -26,8 +23,3 @@
         <li>
             <a href="" class="text-sm font-semibold uppercase">Long Term Rental</a>
         </li>
-    </ul>
-    <button type="button" class=" border border-secondary-400 px-8 py-4 uppercase"><a href="">Book Now</a></button>
-</nav>
-
-<?php include('mobileMenu.php') ?>
